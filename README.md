@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Kurniadinur" target="_blank"><img src="https://raw.githubusercontent.com/Kurniadinur/Point-Of-Sales-/main/public/img/logo.pngg" width="120"></a>
+    <a href="https://github.com/Kurniadinur" target="_blank"><img src="https://raw.githubusercontent.com/Kurniadinur/Point-Of-Sales-/main/public/img/logo.png" width="120"></a>
 </p>
 
 ## Tentang Aplikasi
