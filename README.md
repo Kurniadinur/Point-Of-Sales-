@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://github.com/Kurniadinur" target="_blank"><img src="https://github.com/Kurniadinur/Point-Of-Sales-/tree/main/public/img/logo.png" width="120"></a>
+    <a href="https://github.com/Kurniadinur" target="_blank"><img src="https://raw.githubusercontent.com/Kurniadinur/Point-Of-Sales-/main/public/img/logo.pngg" width="120"></a>
 </p>
 
 ## Tentang Aplikasi
 
-Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v8.* dan minimal PHP v7.4 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
+Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v12.* dan minimal PHP v8.3 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
 
 ### Beberapa Fitur yang tersedia:
 - Manajemen Kategori Produk
