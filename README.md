@@ -4,7 +4,7 @@
 
 ## Tentang Aplikasi
 
-Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v12.* dan minimal PHP v8.3 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
+Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v8.* dan minimal PHP v7.4 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
 
 ### Beberapa Fitur yang tersedia:
 - Manajemen Kategori Produk
@@ -35,11 +35,11 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
+git clone https://github.com/Kurniadinur/Point-Of-Sales-.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+[Link](https://codeload.github.com/Kurniadinur/Point-Of-Sales-/zip/refs/heads/main)
 
 ### Setup Aplikasi
 Jalankan perintah 
@@ -88,11 +88,3 @@ Menjalankan aplikasi
 php artisan serve
 ```
 
-## Link Tutorial
-
-- [Youtube](https://www.youtube.com/playlist?list=PLaN75JfoGz0Okf9f_7GbGM5IFaLXWx-_C)
-- [W2Learn](https://www.w2learn.com)
-
-## License
-
-[MIT license](https://opensource.org/licenses/MIT)
